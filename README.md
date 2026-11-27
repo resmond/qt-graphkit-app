@@ -1,6 +1,6 @@
 # qt-graphkit-app
 
-Standalone app that hosts and tests [qt-graphkit](../qt-graphkit). It expects `qt-graphkit` checked
+Standalone app that hosts and tests [qt-graphkit](https://github.com/resmond/qt-graphkit). It expects `qt-graphkit` checked
 out next to it (`../qt-graphkit`, an editable uv path dependency).
 
 ```
